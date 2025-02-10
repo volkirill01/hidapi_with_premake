@@ -30,3 +30,25 @@ CMakeLists.txt.user
 
 # doxgen output
 doxygen/html/
+
+## Visual Studio artifacts
+.vs
+ipch
+*.vcxproj
+*.opensdf
+*.log
+*.pdb
+*.ilk
+*.user
+*.filters
+*.sdf
+*.suo
+*.VC.db
+*.VC.VC.opendb
+
+## Other garbage
+*.obj
+*.tlog
+*.lib.recipe
+*.idb
+*.lib
