@@ -52,3 +52,6 @@ ipch
 *.lib.recipe
 *.idb
 *.lib
+
+bin
+bin-int
